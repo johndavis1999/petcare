@@ -9,10 +9,10 @@
                     <div class="simplebar-content" style="padding: 0px;">
                         <div class="sidebar-header">
                             <div class="logo-icon">
-                                <img src="{{ asset('./logo.png') }}" class="logo-img" alt="">
+                                <img src="{{ asset('./logo_petcare.png') }}" class="logo-img" alt="">
                             </div>
                             <div class="logo-name flex-grow-1">
-                                <h5 class="mb-0">Oncofarm</h5>
+                                <h5 class="mb-0">Petcare</h5>
                             </div>
                             <div class="sidebar-close">
                                 <span class="material-icons-outlined">close</span>

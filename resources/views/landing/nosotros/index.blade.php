@@ -12,23 +12,20 @@
 </div>
 
 <section id="about" class="about section">
-    <div class="container">
-      <div class="row gy-4">
-        <div class="col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-          <h1 class="text-center">Misión</h1>
-          <p>Somos una empresa que busca satisfacer las necesidades de las personas o instituciones en el ámbito de la salud brindando productos de la mejor calidad a un precio justo, con un servicio ágil, profesional y calidez humana, innovando constantemente por la vida de los seres humanos.</p>
-        </div>
-        <div class="col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-          <h1 class="text-center">Misión</h1>
-          <p>Ofrecer todos aquellos medicamentos e insumos médicos que los clientes necesitan en una forma ágil y oportuna llegando a ser una empresa que venda productos de especialidad y lograr ubicarnos como un referente en el mercado farmacéutico.</p>
-        </div>
+  <div class="container">
+    <div class="row gy-4">
+      <div class="col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+        <h1 class="text-center">Misión</h1>
+        <p>Somos una clínica veterinaria comprometida con el bienestar y la salud de las mascotas, brindando atención integral con productos y servicios de alta calidad. Trabajamos con dedicación, empatía y profesionalismo para mejorar la vida de los animales y fortalecer el vínculo con sus dueños.</p>
+      </div>
+      <div class="col-lg-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+        <h1 class="text-center">Visión</h1>
+        <p>Ser un referente en el cuidado animal, reconocidos por nuestra excelencia en servicios veterinarios y por proporcionar soluciones innovadoras que garanticen la salud y felicidad de las mascotas, posicionándonos como una clínica líder en el ámbito local y regional.</p>
       </div>
     </div>
-
-  </section>
+  </div>
+</section
 
 @include('landing.componentes.nosotros')
-
-<x-slider />
 
 @endsection

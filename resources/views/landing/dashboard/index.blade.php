@@ -6,7 +6,7 @@
     <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="w-100" src="{{ asset('./assets/img/carousel-1.jpg') }}" alt="Image">
+                <img class="w-100" src="{{ asset('./assets/img/portada2.png') }}" alt="Image">
             </div>
         </div>
     </div>
@@ -16,6 +16,5 @@
 <x-slider-productos />
 <x-slider-categorias />
 @include('landing.componentes.servicios')
-<x-slider />
 
 @endsection

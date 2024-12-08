@@ -73,7 +73,7 @@
                     <form>
                         <div class="row mt-3">
                             <div class="col d-grid">
-                                <a href="https://api.whatsapp.com/send/?phone=5969697212270&text&type=phone_number&app_absent=0" target="_blank" class="btn btn-success btn-lg" name="submit" value="buy"><i class="fab fa-whatsapp"></i> Solicitar</a>
+                                <a href="https://api.whatsapp.com/send/?phone=593981714966&text&type=phone_number&app_absent=0" target="_blank" class="btn btn-success btn-lg" name="submit" value="buy"><i class="fab fa-whatsapp"></i> Solicitar</a>
                             </div>
                         </div>
                     </form>

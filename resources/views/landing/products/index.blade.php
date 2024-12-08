@@ -42,7 +42,7 @@
                     <button type="submit" class="btn btn-primary w-100">Buscar</button>
                 </div>
                 <div class="col-md-6">
-                    <a href="{{ route('products.index') }}" class="btn btn-secondary w-100">Limpiar filtros</a>
+                    <a href="{{ route('products.index') }}" class="btn btn-info w-100">Limpiar filtros</a>
                 </div>
             </div>
         </form>
@@ -57,7 +57,7 @@
                     <div class="card h-100">
                         <!-- Product image-->
                         @if ($item->descuento > 0)
-                            <div class="badge bg-secondary text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Oferta</div>
+                            <div class="badge bg-info text-white position-absolute" style="top: 0.5rem; right: 0.5rem">Oferta</div>
                         @endif
                         <img class="card-img-top" src="{{ asset('storage/' . $item->archivo) }}" alt="{{ $item->nombre }}">
                         <!-- Product details-->
@@ -71,7 +71,7 @@
                         </div>
                         <!-- Product actions-->
                         <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                            <div class="text-center"><a class="btn btn-outline-secondary mt-auto" href="{{ url('/products', $item) }}">Ver más</a></div>
+                            <div class="text-center"><a class="btn btn-outline-info mt-auto" href="{{ url('/products', $item) }}">Ver más</a></div>
                         </div>
                     </div>
                 </div>

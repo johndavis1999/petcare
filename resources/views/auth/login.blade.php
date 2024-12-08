@@ -2,8 +2,8 @@
 <html lang="en" data-bs-theme="light">
     <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Oncofarm SA | Admin</title>
-        <link rel="icon" href="./logo.png" type="image/png">
+        <title>Petcare | Admin</title>
+        <link rel="icon" href="./logo_petcare.png" type="image/png">
         <!--plugins-->
         <link rel="stylesheet" type="text/css" href="./admin/plugins/metismenu/metisMenu.min.css">
         <link rel="stylesheet" type="text/css" href="./admin/plugins/metismenu/mm-vertical.css">
