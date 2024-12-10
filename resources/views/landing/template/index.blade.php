@@ -91,6 +91,12 @@
                         <p class="mb-2"><i class="bi bi-geo-alt text-info me-2"></i>Guayaquil - Ecuador</p>
                         {{--<p class="mb-2"><i class="bi bi-envelope-open text-info me-2"></i>info@example.com</p>--}}
                         <p class="mb-0"><i class="bi bi-telephone text-info me-2"></i>+593 98 171 4966</p>
+                        <div class="d-flex pt-2">
+                            <a class="btn btn-outline-light btn-social" href="https://www.instagram.com/pet_caregye/profilecard/?igsh=ZnVlY2ZzZjB4djBv" target="_blank"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/people/PetCare-Veterinaria-247/100070179608941/?mibextid=LQQJ4d&rdid=DyVvcSJcKkDR7My7&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F12FCjA1uJGX%2F%3Fmibextid%3DLQQJ4d" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            {{--<a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-youtube"></i></a>--}}
+                            <a class="btn btn-outline-light btn-social" href="https://api.whatsapp.com/send/?phone=593981714966&amp;text&amp;type=phone_number&amp;app_absent=0" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                        </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="embed-responsive embed-responsive-21by9">
